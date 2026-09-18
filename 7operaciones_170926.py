@@ -1,5 +1,5 @@
 #enunciado
-#el usuario introduce dos valores y los convierto a numéricos
+#el usuario introduce dos valores y se manipulan
 
 variable1=int(input("Introduce el primer número: "))
 variable2=int(input("Introduce el segundo número: "))
